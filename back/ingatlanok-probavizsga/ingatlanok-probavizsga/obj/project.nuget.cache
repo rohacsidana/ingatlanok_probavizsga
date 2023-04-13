@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lw9eX3vvKYl0W+nwhqEzJCrlrW6cq2X2DbWUX0KJVZ/xXuXWngKhSHpBpDAb+uLfVJNni6ByVIvLl2VL4pLALw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RohácsiDaniella(SZF_\\Documents\\ingatlanok_probavizsga\\back\\ingatlanok-probavizsga\\ingatlanok-probavizsga\\ingatlanok-probavizsga.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RohácsiDaniella(SZF_\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\RohácsiDaniella(SZF_\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\RohácsiDaniella(SZF_\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\RohácsiDaniella(SZF_\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\RohácsiDaniella(SZF_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\RohácsiDaniella(SZF_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
